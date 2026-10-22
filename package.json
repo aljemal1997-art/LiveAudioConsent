@@ -1,0 +1,9 @@
+{
+  "name": "live-audio-consent",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Consent-based live audio sharing demo with a protected listener page",
+  "main": "server.js",
+  "scripts": {"start": "node server.js"},
+  "dependencies": {"express": "^4.21.2", "socket.io": "^4.8.1"}
+}
